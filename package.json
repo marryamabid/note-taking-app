@@ -1,0 +1,19 @@
+{
+  "name": "note-taking-app",
+  "type": "module",
+  "bin": {
+    "note": "./index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "open": "^10.1.2",
+    "yargs": "^18.0.0"
+  }
+}
